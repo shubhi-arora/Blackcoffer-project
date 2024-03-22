@@ -35,7 +35,7 @@ const Main = () => {
 
   return (
     <ChakraProvider>
-      <Navbar />
+      {/* <Navbar /> */}
       <AdminDashboard />
       <IntensityChart data={data} />
       <Flex direction={{ base: "column", md: "row" }} m={50}>
