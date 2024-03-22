@@ -1,15 +1,15 @@
 # Data Visualization Dashboard
 
-Welcome to the Data Visualization Dashboard repository! This dashboard provides insightful visualizations and data representation for our website. 
+Data Visualization Dashboard
 
 ## Screenshots
 
 Here are some enticing snapshots showcasing the features and functionalities of our visualization dashboard:
 
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/d30a8648-12d7-41b6-82c6-5ebec4c5268b)
+![image](./images/intensity.png)
 
 
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/66fc2062-e850-49c6-ad0c-147e7bd1877e)
+![image](./images/sector.png)
 
 
 ![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/448df45c-b92b-4faf-9784-1dd0c4706ffc)
@@ -30,20 +30,19 @@ Here are some enticing snapshots showcasing the features and functionalities of 
 ![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/27afaa6b-a05f-48e4-9258-f8bcc4788071)
 
 ## About
-
-This dashboard leverages the power of the MERN (MongoDB, Express, React, Node.js) stack to provide a seamless and interactive experience for visualizing and analyzing data from our website. The visualizations are powered by the Chart.js library, enhancing our ability to understand trends and patterns within the data.
+It is a visualization dashboard made using MERN stack.
 
 ## Tech Stacks
 
-- MongoDB: The database layer storing the essential data for the dashboard.
-- Express: The backend framework providing APIs to fetch and manage data.
-- React: The frontend framework rendering the dynamic and user-friendly interface.
-- Node.js: The runtime environment for server-side scripting.
-- Chart.js: A powerful library for creating visually appealing and interactive charts.
+- MongoDB
+- Express
+- React
+- Node.js
+- Chart.js
 
 ## Installation
 
-To get started with the BlackCoffer Visualization Dashboard:
+Installation Steps:
 
 1. Clone this repository: `git clone https://github.com/shubhi-arora/BlackCoffer-project.git`
 2. Navigate to the project directory: `cd BlackCoffer-Visualization-Dashboard`
